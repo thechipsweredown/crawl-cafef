@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1aef0c4-b663-435c-b464-f09cee898549" name="Default Changelist" comment="" />
+    <list default="true" id="f1aef0c4-b663-435c-b464-f09cee898549" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1sao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2sao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3sao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4sao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5sao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crawl/SplitFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crawl/SplitFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crawl/Tiki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crawl/Tiki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crawl/SplitFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/crawl/SplitFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crawl/Tiki.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/crawl/Tiki.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,46 +39,59 @@
     <session id="-1898607869">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.110" value="1" />
           <entry key="project.open.time.142" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.237" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="comment" value="1" />
-          <entry key="java" value="2555" />
+          <entry key="java" value="2771" />
           <entry key="xml" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2555" />
+          <entry key="JAVA" value="2771" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="1sao" value="1" />
+          <entry key="1sao" value="2" />
           <entry key="2sao" value="1" />
           <entry key="3sao" value="1" />
-          <entry key="4sao" value="1" />
+          <entry key="4sao" value="2" />
           <entry key="5sao" value="1" />
           <entry key="class" value="1" />
           <entry key="comment" value="11" />
           <entry key="comment1" value="2" />
-          <entry key="java" value="5" />
+          <entry key="dien_lanh" value="1" />
+          <entry key="java" value="6" />
+          <entry key="negative_dien_lanh" value="1" />
+          <entry key="negative_dien_tu" value="2" />
+          <entry key="negative_toy" value="3" />
+          <entry key="positive_dien_lanh" value="1" />
+          <entry key="positive_dien_tu" value="4" />
+          <entry key="positive_toy" value="3" />
+          <entry key="tb_dien_lanh" value="1" />
+          <entry key="tb_dien_tu" value="3" />
+          <entry key="tb_toy" value="2" />
+          <entry key="thiet_bi_dien_tu" value="4" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="5" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="JAVA" value="6" />
+          <entry key="PLAIN_TEXT" value="45" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -75,14 +99,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/negative_dien_lanh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/negative_dien_tu">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/negative_toy">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/positive_dien_lanh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/positive_dien_tu">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/positive_toy">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tb_dien_lanh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tb_dien_tu">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/crawl/Tiki.java">
+        <entry file="file://$PROJECT_DIR$/thiet_bi_dien_tu">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="66" column="13" selection-start-line="63" selection-start-column="34" selection-end-line="66" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="11160">
+              <caret line="744" selection-start-line="744" selection-end-line="744" />
             </state>
           </provider>
         </entry>
@@ -106,6 +167,9 @@
       <find>{&quot;star&quot;:&quot;positive&quot;,&quot;comment&quot;:&quot;Hồi bé được một vợ chồng tây dạy cho chơi trò này thích vãi, bayh đã có ở vn luôn rồi. Mua về thỉnh thoảng chán chán ko có ai chơi lôi qua ngắm&quot;}</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -113,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/main/java/crawl/Crawl.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/comment" />
+        <option value="$PROJECT_DIR$/thiet_bi_dien_tu" />
         <option value="$PROJECT_DIR$/src/main/java/crawl/Tiki.java" />
         <option value="$PROJECT_DIR$/src/main/java/crawl/SplitFile.java" />
       </list>
@@ -124,17 +189,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="985" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="51" />
     <option name="y" value="-4" />
-    <option name="width" value="935" />
-    <option name="height" value="1084" />
+    <option name="width" value="1315" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,15 +239,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542983770169" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544672881894" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -262,17 +327,19 @@
       <workItem from="1542809077696" duration="2271000" />
       <workItem from="1542813619049" duration="1227000" />
       <workItem from="1542934807503" duration="24399000" />
+      <workItem from="1544622925249" duration="2825000" />
+      <workItem from="1544672170466" duration="715000" />
+      <workItem from="1545438302232" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27897000" />
+    <option name="totallyTimeSpent" value="31444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="-11" width="1871" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18650576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13110258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -280,8 +347,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40292275" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294979" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.291841" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39979124" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -290,15 +357,15 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.34968686" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3493724" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32967636" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32939324" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.2495886" />
     </layout>
   </component>
@@ -324,9 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="36" column="96" selection-start-line="36" selection-start-column="96" selection-end-line="36" selection-end-column="96" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -351,21 +415,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1sao">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-522" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2sao">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4sao">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6418" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2sao" />
     <entry file="file://$PROJECT_DIR$/comment1">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="617">
@@ -373,35 +423,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3sao">
+    <entry file="file://$PROJECT_DIR$/3sao" />
+    <entry file="file://$PROJECT_DIR$/5sao" />
+    <entry file="file://$PROJECT_DIR$/4sao" />
+    <entry file="file://$PROJECT_DIR$/1sao" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawl/Tiki.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1378" />
+        <state relative-caret-position="213">
+          <caret line="71" column="84" selection-start-line="71" selection-start-column="84" selection-end-line="71" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5sao">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16977" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/dien_lanh">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/crawl/SplitFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="19" column="66" lean-forward="true" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crawl/Tiki.java">
+    <entry file="file://$PROJECT_DIR$/negative_dien_lanh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/negative_dien_tu">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/negative_toy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/positive_dien_lanh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/positive_dien_tu">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/positive_toy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb_dien_lanh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb_dien_tu">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thiet_bi_dien_tu">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="66" column="13" selection-start-line="63" selection-start-column="34" selection-end-line="66" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="11160">
+          <caret line="744" selection-start-line="744" selection-end-line="744" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb_toy">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

@@ -69,20 +69,21 @@ public class Tiki {
     }
 
     public static void main(String[] args) throws IOException {
-        System.setProperty("webdriver.chrome.driver", "/home/trandem/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/home/trandem/chromedriver");//chinh den chorm driver doawn tren mang nhe
         WebDriver chrome = new ChromeDriver();
         JavascriptExecutor js = (JavascriptExecutor) chrome;
-        File file = new File("comment1");
+        File file = new File("dien_lanh");//ten file output
         BufferedWriter bw = new BufferedWriter(new FileWriter(file,true));
 
-        for (int pageId = 10; pageId <= 20; pageId++) {
-            String baseUrl = "https://tiki.vn/do-choi/c5250?rating=1&page="+ pageId;
+        for (int pageId = 1; pageId <= 10; pageId++) {
+		//link nay ong tu thay doi nhe
+            String baseUrl = "https://tiki.vn/dien-gia-dung-dien-lanh/c1882?src=mega-menu&rating=1&page="+ pageId;
             System.out.println(baseUrl);
             try {
                 chrome.get(baseUrl);
                 int dem = 0;
                 List<WebElement> webElements = chrome.findElements(By.className("product-item    "));
-
+                System.out.println( webElements.size());
                 for (int i = 0; i < webElements.size(); i++) {
                     dem++;
                     System.out.println(dem);
