@@ -9,5 +9,8 @@
         <module name="webmining" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="webmining" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
