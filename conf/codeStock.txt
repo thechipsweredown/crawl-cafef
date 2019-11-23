@@ -1,7 +1,3 @@
-FPT
-VIC
-VCB
-VHM
 GAS
 BID
 VRE
